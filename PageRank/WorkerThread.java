@@ -91,7 +91,7 @@ public class WorkerThread extends Thread {
 
                 //update table
                 GameState f = table.get(tableArray[i]).gameState;
-                f.numDownLinks[piece]++;
+                f.incrementNumDownLinks(piece);
             }
         }
     }
