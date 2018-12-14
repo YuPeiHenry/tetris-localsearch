@@ -9,3 +9,4 @@ Ran on 12 cores NSCC for 2 hours
 Completed 12 iterations with 479130 vertices on a sparse graph
 
 Main Project is jointly written by Tan Mingrui, Wang Deband, Yu Pei Henry and Zhang Hui. This is the final code used for the project.
+See [report](report.pdf) for findings of the project.
